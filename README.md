@@ -1,4 +1,4 @@
-# Cleaning-Data-in-SQL-Queries
+# Cleaning-Data-in-SQL
 This project focuses on cleaning and standardizing real estate data from a Nashville Housing dataset using SQL.The goal is to prepare the data for better usability in analysis and reporting. The following steps highlight the key processes and techniques applied in this project:
 
 Key Features:
